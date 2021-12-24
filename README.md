@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# REACT CAT API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React demo project featuring:
+* Hooks
+* Context
 
 ## Available Scripts
 
