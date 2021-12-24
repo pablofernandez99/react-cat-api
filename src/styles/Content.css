@@ -1,0 +1,23 @@
+.content-wrap {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-wrap button {
+    outline: none;
+    padding: 10px;
+    border: 2px solid #b6b6b6;
+    border-radius: 10px;
+    font-family: 'Yatra One', sans-serif;
+    background-color: #b6b6b6;
+    cursor: pointer;
+}
+
+.content-wrap button:hover {
+    background-color: transparent;
+    border: 2px solid #b6b6b6;
+}

@@ -1,0 +1,16 @@
+ul.gallery{
+    padding-left: 0;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.card-gallery {
+    margin: 0.735rem;
+    overflow: hidden;
+    border-radius: 10px;
+    line-height: 0;
+    background-color: gainsboro;
+}

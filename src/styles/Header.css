@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+header h1.title {
+    font-size: 60px;
+}
+
+h1.title a {
+    color: black;
+}
